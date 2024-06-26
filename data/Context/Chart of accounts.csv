@@ -1,0 +1,84 @@
+Account no.,Title,Type,Balance,Closes into,Require department,Require location
+3000,Net Assets,Bal,CR,,Yes,Yes
+3500,Net Assets (Adjustments),Bal,CR,,Yes,Yes
+3525,Board Designated,Bal,CR,,Yes,Yes
+4000,Individual Donations,Inc,CR,3000,Yes,Yes
+4010,Corporate Grants,Inc,CR,3000,Yes,Yes
+4020,Foundation Grants,Inc,CR,3000,Yes,Yes
+4030,Program Income,Inc,CR,3000,Yes,Yes
+4040,Platform/License Income,Inc,CR,3000,Yes,Yes
+4050,Widespread Income,Inc,CR,3000,Yes,Yes
+4100,Federal & SC Grants,Inc,CR,3000,Yes,Yes
+4150,Unbilled- Federal & SC Grants,Inc,CR,3000,Yes,Yes
+4200,In-Kind Contributions,Inc,CR,3000,Yes,Yes
+4250,Interest and Other Income,Inc,CR,3000,Yes,Yes
+4302,Release Restriction to Unrestricted Fund,Inc,CR,3000,Yes,Yes
+4350,Gain on Acquisition,Inc,CR,3000,Yes,Yes
+6100,Staff Salaries,Inc,DB,3000,Yes,Yes
+6110,Saga Fellow Stipend,Inc,DB,3000,Yes,Yes
+6120,Bonus,Inc,DB,3000,Yes,Yes
+6150,PR Taxes for Staff Salaries,Inc,DB,3000,Yes,Yes
+6160,Staff Insurances,Inc,DB,3000,Yes,Yes
+6170,Staff Health Insurance,Inc,DB,3000,Yes,Yes
+6175,Staff Dental and Vision Insurance,Inc,DB,3000,Yes,Yes
+6180,Staff Fringe Benefits- Morale Food (No Alcohol),Inc,DB,3000,Yes,Yes
+6185,401K Match,Inc,DB,3000,Yes,Yes
+6190,Staff Fringe Cost Allocation,Inc,DB,3000,Yes,Yes
+6199,Staff Fringe Cost Allocation- Contra,Inc,DB,3000,Yes,Yes
+6200,AmeriCorps Saga Fellow Stipend,Inc,DB,3000,Yes,Yes
+6210,AmeriCorps PR Taxes,Inc,DB,3000,Yes,Yes
+6220,Fellow Stipends,Inc,DB,3000,Yes,Yes
+6240,Fellow PR Taxes,Inc,DB,3000,Yes,Yes
+6270,AmeriCorps Fellows Workers Compensation,Inc,DB,3000,Yes,Yes
+6280,AmeriCorps Health Insurance,Inc,DB,3000,Yes,Yes
+6290,AmeriCorps Fellow Dental and Vision Insurance,Inc,DB,3000,Yes,Yes
+6295,Staff Condolence/Morale,Inc,DB,3000,Yes,Yes
+6300,Consultants and Contracted Services,Inc,DB,3000,Yes,Yes
+6310,Contingency for Project,Inc,DB,3000,Yes,Yes
+6350,Professional Services- Accounting and Legal Fees,Inc,DB,3000,Yes,Yes
+6360,Software and Subscription Services,Inc,DB,3000,Yes,Yes
+6361,A/V Hosting,Inc,DB,3000,Yes,Yes
+6362,Server Hosting Expense,Inc,DB,3000,Yes,Yes
+6370,Professional Development,Inc,DB,3000,Yes,Yes
+6371,Sponsored Conferences/Events,Inc,DB,3000,Yes,Yes
+6380,Business Registration and Filing Fees,Inc,DB,3000,Yes,Yes
+6400,Space Rental,Inc,DB,3000,Yes,Yes
+6420,Rent and Utilities,Inc,DB,3000,Yes,Yes
+6430,Postage and Mailing Services,Inc,DB,3000,Yes,Yes
+6440,Printing and Copying,Inc,DB,3000,Yes,Yes
+6450,Phone and Internet expenses,Inc,DB,3000,Yes,Yes
+6500,Classroom Supplies,Inc,DB,3000,Yes,Yes
+6510,Office Supplies,Inc,DB,3000,Yes,Yes
+6515,Hardware -Laptop and Tech Equipment,Inc,DB,3000,Yes,Yes
+6550,Fellow/Staff Swag and Gear,Inc,DB,3000,Yes,Yes
+6600,Bank Service Fees and Charges,Inc,DB,3000,Yes,Yes
+6615,Merchant fees,Inc,DB,3000,Yes,Yes
+6650,Bank Line of Credit Fees,Inc,DB,3000,Yes,Yes
+6700,Meals Business Development,Inc,DB,3000,Yes,Yes
+6720,Meals All Staff Events,Inc,DB,3000,Yes,Yes
+6730,Meals Per Diem,Inc,DB,3000,Yes,Yes
+6740,Meals Team Meetings,Inc,DB,3000,Yes,Yes
+6745,Alcohol Beverage for Meetings,Inc,DB,3000,Yes,Yes
+6750,Mileage Reimbursement,Inc,DB,3000,Yes,Yes
+6755,Career Fairs Fees,Inc,DB,3000,Yes,Yes
+6756,Fellow/Tutor Posting,Inc,DB,3000,Yes,Yes
+6757,Staff Position Posting,Inc,DB,3000,Yes,Yes
+6758,Marketing Promotional Cost,Inc,DB,3000,Yes,Yes
+6759,Digital Marketing,Inc,DB,3000,Yes,Yes
+6760,Travel- CNCS Meetings,Inc,DB,3000,Yes,Yes
+6770,Fellow Emergency Relief Fund,Inc,DB,3000,Yes,Yes
+6780,Student Incentives,Inc,DB,3000,Yes,Yes
+6790,Tutor/Staff Incentive/Appreciation,Inc,DB,3000,Yes,Yes
+6800,Depreciation Expense,Inc,DB,3000,Yes,Yes
+6810,Travel - Transportation,Inc,DB,3000,Yes,Yes
+6811,Travel - Lodging,Inc,DB,3000,Yes,Yes
+6812,Travel - Fees and other Travel Exp,Inc,DB,3000,Yes,Yes
+6820,Background Checks for Staff,Inc,DB,3000,Yes,Yes
+6830,Background Checks for AmeriCorps Fellows,Inc,DB,3000,Yes,Yes
+6840,"Insurances -Commercial, package, Cyber Liability, Directors, Officer's, etc.",Inc,DB,3000,Yes,Yes
+6850,AmeriCorps Fellows Payroll Processing Fees,Inc,DB,3000,Yes,Yes
+6860,Staff Payroll Processing Fees,Inc,DB,3000,Yes,Yes
+6870,Misc Expenses & WM Ops Expenses,Inc,DB,3000,Yes,Yes
+6900,Indirect OH for federal awards,Inc,DB,3000,Yes,Yes
+6920,Indirect OH Charge,Inc,DB,3000,Yes,Yes
+6950,Disallowances,Inc,DB,3000,Yes,Yes
