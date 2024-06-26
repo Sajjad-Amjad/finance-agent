@@ -24,7 +24,7 @@ Follow these steps to set up and run the finance assistant on your local machine
 1. **Clone the Repository**
 
    ```sh
-   git clone https://github.com/yourusername/finance-assistant.git
+   git clone https://github.com/Sajjad-Amjad/finance-agent.git
    cd finance-agent
 
 2. **Create a Virtual Environment**
